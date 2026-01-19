@@ -1,0 +1,34 @@
+# 🔐 Secure Password Generator
+
+> 🏆 **Project 1 of 45** | Python Practice Challenge
+
+A simple and efficient Python script to generate random and secure passwords, allowing the user to define the desired length.
+
+## 📋 About the Project
+
+This project was developed as part of my Python introduction portfolio. I am challenging myself to create a new, simple project every day to solidify the concepts I learn.
+
+The main objective was to create a Command Line Interface (CLI) tool that automates the creation of strong passwords using uppercase letters, lowercase letters, numbers, and special symbols.
+
+## 🚀 Features
+
+- [x] Generates completely random passwords.
+- [x] Allows the user to choose the password length.
+- [x] Uses a full combination of characters (letters, numbers, and symbols) for higher security.
+- [x] Input handling (converts text input to numbers).
+
+## 🛠️ Technologies
+
+* **Python 3**
+* `random` Library (for randomness logic)
+* `string` Library (for character sets)
+
+## 📦 How to Run
+
+1. Make sure you have Python installed on your machine.
+2. Clone this repository or download the `gerador.py` file.
+3. Open your terminal/command prompt in the file's folder.
+4. Run the command:
+
+```bash
+python gerador.py
